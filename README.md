@@ -1,6 +1,6 @@
 # DRIP Statistical Learning
 
-# As of 2.63 Drip is being transitioned for support and evolution by F+F. Please email lakshmi@synergicdesign.com for any other details while in transition.
+# As of 2.63 DRIP is being transitioned. Please email lakshmi7977@gmail.com for any other details while in transition.
 
 **v2.63**  *1 March 2017*
 
@@ -437,4 +437,4 @@ For Installation, Documentation and Samples, and the associated supporting Numer
 
 ##Contact
 
-lakshmi@synergicdesign.com
+lakshmi7977@gmail.com
